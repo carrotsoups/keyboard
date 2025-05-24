@@ -8,4 +8,5 @@ Created: 2025-05-23 </br>
 - repo
 - basic schematic in kicad
 - microcontroller chosen
-- took a bajjillion years finding the correct footprints 
+- took a bajjillion years finding the correct footprints
+![image](./journal-images/schematic1.png)
