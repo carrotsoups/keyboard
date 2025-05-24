@@ -1,8 +1,10 @@
 # Total time: 2h
-Title: Keyboard </br>
-Author: Sunni </br>
-Description: Custom Keyboard </br>
-Created: 2025-05-23 </br>
+---
+title: "Keyboard" 
+author: "Sunni" 
+description: "Custom Keyboard" 
+created: "2025-05-23" 
+---
 
 ## May 23: 2 hours
 - repo
