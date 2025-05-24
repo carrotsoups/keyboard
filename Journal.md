@@ -1,10 +1,10 @@
-# sdhhbasufsdfhsdhun
+# Total time: 2h
 Title: Keyboard </br>
 Author: Sunni </br>
 Description: Custom Keyboard </br>
 Created: 2025-05-23 </br>
 
-## May 23: 9:20 to 
+## May 23: 2 hours
 - repo
 - basic schematic in kicad
 - microcontroller chosen
