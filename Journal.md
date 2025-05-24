@@ -5,3 +5,5 @@ Description: Custom Keyboard </br>
 Created: 2025-05-23 </br>
 
 ## May 23
+- repo
+- basic schematic is kicad
